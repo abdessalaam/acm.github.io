@@ -9,6 +9,6 @@ Don't worry! It's a temporary measure and our Mastodon will be up and running ag
 
 &nbsp;  
 
-Thank you for your understanding. 
+Thank you for your patience. 
 
 *Curator*

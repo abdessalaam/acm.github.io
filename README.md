@@ -3,7 +3,7 @@
 Monday, 31 July 2023 
 # Server updates
 
-Hello, we will be updating and tweaking our mastodon server today (31 July 2023) so you may see this page.
+Hello, we will be updating and tweaking our server today (31 July 2023) so you may see this page.
 
 Don't worry! It's a temporary measure and our Mastodon will be up and running again shortly.  
 
